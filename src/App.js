@@ -37,6 +37,7 @@ function App() {
 const Home = () => (
   <div>
     <h1>Home Page</h1>
+    <img src = "https://i1.wp.com/cdn-9.tubefollow.com/photos/l/384571237189890879/kingjames-up-watching-a-lil-tom-jerry-before-we-head-to-school-384571237189890879.jpg" alt = "leborn jams"/>
   </div>
 );
 

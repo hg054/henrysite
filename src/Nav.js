@@ -17,7 +17,7 @@ function Nav() {
         </h3>
         <ul className="nav-links">
             <Link style ={navStyle} to='/about'>
-              <li>Aboooot</li>
+              <li>About</li>
             </Link>
             <Link style = {navStyle} to='/projects'>
               <li>Projects</li>

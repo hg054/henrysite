@@ -28,7 +28,7 @@ function Shop() {
 
         <h1>
           <Link to='/shop/sosig'>
-            Sosig 69
+            Sosig Edited
           </Link>
         </h1>
     </div>

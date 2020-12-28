@@ -3,7 +3,7 @@ import './App.css';
 import Nav from './Nav';
 import About from './About';
 import Projects from './Projects';
-import {BrowserRouter as Router, Switch, Route} from 'react-router-dom';
+import {HashRouter as Router, Switch, Route} from 'react-router-dom';
 import Borger from './Borger';
 import Sosig from './Sosig';
 import Project1 from './Project1';

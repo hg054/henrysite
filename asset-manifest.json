@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/henrysite/static/css/main.b3957c0a.chunk.css",
+    "main.js": "/henrysite/static/js/main.8b1c3794.chunk.js",
+    "main.js.map": "/henrysite/static/js/main.8b1c3794.chunk.js.map",
+    "runtime-main.js": "/henrysite/static/js/runtime-main.17115da5.js",
+    "runtime-main.js.map": "/henrysite/static/js/runtime-main.17115da5.js.map",
+    "static/js/2.5de96845.chunk.js": "/henrysite/static/js/2.5de96845.chunk.js",
+    "static/js/2.5de96845.chunk.js.map": "/henrysite/static/js/2.5de96845.chunk.js.map",
+    "static/js/3.c1392f1e.chunk.js": "/henrysite/static/js/3.c1392f1e.chunk.js",
+    "static/js/3.c1392f1e.chunk.js.map": "/henrysite/static/js/3.c1392f1e.chunk.js.map",
+    "index.html": "/henrysite/index.html",
+    "static/css/main.b3957c0a.chunk.css.map": "/henrysite/static/css/main.b3957c0a.chunk.css.map",
+    "static/js/2.5de96845.chunk.js.LICENSE.txt": "/henrysite/static/js/2.5de96845.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.17115da5.js",
+    "static/js/2.5de96845.chunk.js",
+    "static/css/main.b3957c0a.chunk.css",
+    "static/js/main.8b1c3794.chunk.js"
+  ]
+}

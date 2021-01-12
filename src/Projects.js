@@ -1,48 +1,46 @@
+import {Link} from 'react-router-dom';
 import React from 'react';
 import './App.css';
-import {Link} from 'react-router-dom';
 
 function Projects() {
+
+  const navStyle = {
+    color: 'black' ,
+    fontSize: 25,
+    lineHeight: 3
+};
 
   return (
     <div>
         <h1>
-          <Link to='/projects/hydraulic-cylinder'>
+          Click on any of the following projects.
+        </h1>
+        <div>
+          <Link style ={navStyle} to='/projects/cybertruck'>
+            Tesla Cybertruck RC Model
+          </Link>
+        </div>
+        <div>
+          <Link style ={navStyle} to='/projects/hydraulic-cylinder'>
             Hydraulic Cylinder
           </Link>
-        </h1>
-        <h1>
-          <Link to='/projects/project2'>
-            Project 2
+        </div>
+        <div>
+          <Link style ={navStyle} to='/projects/shock-absorber'>
+            Shock Absorber
           </Link>
-        </h1>
-        <h1>
-          <Link to='/projects/project3'>
-            Project 3
+        </div>
+        <div>
+          <Link style ={navStyle} to='/projects/cell-stand'>
+            Cell Phone Stand
           </Link>
-        </h1>
-        <h1>
-          <Link to='/projects/project4'>
-            Project 4
+        </div>
+        <div>
+          <Link style ={navStyle} to='/projects/conveyor'>
+            Conveyor System
           </Link>
-        </h1>
-        <h1>
-          <Link to='/projects/project5'>
-            Project 5
-          </Link>
-        </h1>
+        </div>
 
-        <h1>
-          <Link to='/projects/borger'>
-            Borger 3.50
-          </Link>
-        </h1>
-
-        <h1>
-          <Link to='/projects/sosig'>
-            Sosig Edited
-          </Link>
-        </h1>
     </div>
   );
 }

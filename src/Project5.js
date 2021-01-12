@@ -1,14 +1,14 @@
 import React from 'react';
 import './App.css';
 
-function Project5() {
+function Conveyor() {
 
   return (
     <div>
-        <h1>Project5</h1>
-        <img src ="https://www.smcpneumatics.com/cad_images/ch/CH2GB63B-50A.JPG" alt="" />
+        <h1>Conveyor System</h1>
+        <h3>To be updated, sorry for the inconvenice</h3>
     </div>
   );
 }
 
-export default Project5;
+export default Conveyor;

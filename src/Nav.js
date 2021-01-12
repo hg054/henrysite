@@ -5,7 +5,8 @@ import {Link} from 'react-router-dom';
 function Nav() {
 
   const navStyle = {
-      color: 'white'
+      color: 'white' ,
+      textDecoration: 'none'
   };
 
   return (
@@ -16,8 +17,8 @@ function Nav() {
             </Link>
         </h3>
         <ul className="nav-links">
-            <Link style ={navStyle} to='/about'>
-              <li>About</li>
+            <Link style ={navStyle} to='/resume'>
+              <li>Resume</li>
             </Link>
             <Link style = {navStyle} to='/projects'>
               <li>Projects</li>
